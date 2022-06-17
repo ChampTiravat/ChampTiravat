@@ -1,4 +1,4 @@
 - :technologist: Hi, my name is Tiravat Thaisubvorakul. I'm a full-stack software developer.
-- :robot: I’m interested in applying AI to solve real world problems, and the posibility of the upcoming Aritificial General Intelligence.
-- 🌱 I’m currently learning Artificial Intelligence, Machine Learning, Data Science, Algorithmic Trading and many more.
+- :robot: I’m interested in applying AI to solve real world problems.
+- 🌱 I’m learning Artificial Intelligence, Machine Learning, Data Science, and many more.
 - 📫 If you want to reach out to me, please send an email to tiravat2016@gmail.com
